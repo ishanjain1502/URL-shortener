@@ -19,11 +19,14 @@
 1. Get request for Home Page <br/> <br/>
 ![image](https://user-images.githubusercontent.com/56102033/168488514-a2080814-47e3-4b3b-bcdd-880c028abc75.png)
 <br/>
+
+
 2. Post request for getting short url of a link<br/> <br/>
-![image](https://user-images.githubusercontent.com/56102033/168488809-033a29ed-af9d-42b7-be9d-c079bfec2dee.png)
+![image](https://user-images.githubusercontent.com/56102033/168488862-a11bff6e-bb1f-4bc6-b7de-cb595aa3cfb9.png)
 
+<br/>
 
-<br/>3. Get request with the shorturl<br/> <br/>
+3. Get request with the shorturl<br/> <br/>
 ![image](https://user-images.githubusercontent.com/56102033/168488731-a64d1de5-7676-4cfd-a563-0ee15b903ce8.png)
 
 
