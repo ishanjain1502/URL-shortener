@@ -17,17 +17,17 @@
 
 ## API LLD
 1. Get request for Home Page <br/> <br/>
-![image](https://user-images.githubusercontent.com/56102033/168488514-a2080814-47e3-4b3b-bcdd-880c028abc75.png)
+![image](https://user-images.githubusercontent.com/56102033/168488920-128159bc-e772-44da-b2cf-5e1c527d2d9a.png)
 <br/>
 
 
 2. Post request for getting short url of a link<br/> <br/>
-![image](https://user-images.githubusercontent.com/56102033/168488862-a11bff6e-bb1f-4bc6-b7de-cb595aa3cfb9.png)
+![image](https://user-images.githubusercontent.com/56102033/168488943-859aff67-51b8-45c5-8b5d-ce1ce22ee24d.png)
 
 <br/>
 
 3. Get request with the shorturl<br/> <br/>
-![image](https://user-images.githubusercontent.com/56102033/168488731-a64d1de5-7676-4cfd-a563-0ee15b903ce8.png)
+![image](https://user-images.githubusercontent.com/56102033/168488961-832000df-4aaa-4fee-9a34-1e83e32b85d1.png)
 
 
 
